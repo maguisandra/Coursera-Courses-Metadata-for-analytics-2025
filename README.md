@@ -1,5 +1,11 @@
 # 📘 Coursera Courses Metadata Analysis 2025  
 *Comprehensive Educational & Data Analytics Study*
+### Comprehensive Educational & Data Analytics Study
+
+![Average Instructors per Course by Category](Categories%20overview.png)
+
+> **Key Insight:** This visualization highlights the critical human-resource gap in technology sectors compared to humanities, a major challenge for global **Educational Equity** and **SDG 4** in 2025.
+Utilisez le code avec précaution.
 
 ---
 
@@ -139,6 +145,9 @@ This project is licensed under the
 
 **Copyright © 2025  
 Sandrine Aboudi**
+**Contact & Collaboration**
+Connect with me on https://www.linkedin.com/in/sandrine-aboudi/
+or visit my [GitHub Profile]  https://github.com/maguisandra for more Educational Data Analytics projects.
 
 You are free to:
 - **Share** — copy and redistribute the material  
