@@ -144,10 +144,12 @@ This project is licensed under the
 
 **Copyright © 2025  
 Sandrine Aboudi**
-**Contact & Collaboration**
-Connect with me on https://www.linkedin.com/in/sandrine-aboudi/
-or visit my [GitHub Profile]  https://github.com/maguisandra for more Educational Data Analytics projects.
+---
+### 🤝 Contact & Collaboration
 
+**Sandrine Aboudi**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sandrine-aboudi/)  
+or visit my [GitHub Profile](https://github.com/maguisandra) for more Educational Data Analytics projects.
 You are free to:
 - **Share** — copy and redistribute the material  
 - **Adapt** — remix and build upon it  
