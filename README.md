@@ -91,7 +91,7 @@ Understand how online learning platforms (like Coursera) structure *skills*, *in
 
 | Category                   | Avg Skills per Course | Difference from Average | Interpretation                               |
 |-----------------------------|--------------------|------------------------|---------------------------------------------|
-| Personal Development        | 2.50               | +0.48                  | Highly multidisciplinary                    |
+| Personal Development        | 2.50               | +0.83                  | Highly multidisciplinary                    |
 | Business                    | 2.10               | +0.43                  | Diverse competencies                         |
 | Maths & Logic               | 1.91               | +0.24                  | Strong variety                               |
 | Social Sciences             | 1.79               | +0.12                  | Slightly above average                       |
