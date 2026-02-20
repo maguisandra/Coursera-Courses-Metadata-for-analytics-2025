@@ -146,8 +146,6 @@ This project is licensed under the
 Sandrine Aboudi**
 ---
 ### 🤝 Contact & Collaboration
-
-**Sandrine Aboudi**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandrine-aboudi/)  
 or visit my [GitHub Profile](https://github.com/maguisandra) for more Educational Data Analytics projects.
 You are free to:
