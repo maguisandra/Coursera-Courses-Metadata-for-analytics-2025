@@ -81,7 +81,7 @@ Understand how online learning platforms (like Coursera) structure *skills*, *in
 | Language Learning           | 0.59                      | −0.20                 | Low                                      |
 | Math & Logic                | 0.58                      | −0.21                 | Low                                      |
 | Computer Science            | 0.47                      | −0.32                 | Very low                                 |
-| Information Technology      | 0.20                      | −0.59                 | Extremely low                            |
+| Information Technology      | 0.32                      | −0.47                 | Extremely low                            |
 
 ---
 
@@ -91,7 +91,7 @@ Understand how online learning platforms (like Coursera) structure *skills*, *in
 
 | Category                   | Avg Skills per Course | Difference from Average | Interpretation                               |
 |-----------------------------|--------------------|------------------------|---------------------------------------------|
-| Personal Development        | 2.15               | +0.48                  | Highly multidisciplinary                    |
+| Personal Development        | 2.50               | +0.48                  | Highly multidisciplinary                    |
 | Business                    | 2.10               | +0.43                  | Diverse competencies                         |
 | Maths & Logic               | 1.91               | +0.24                  | Strong variety                               |
 | Social Sciences             | 1.79               | +0.12                  | Slightly above average                       |
